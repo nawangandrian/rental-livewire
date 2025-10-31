@@ -98,6 +98,7 @@
 
             <!-- Right (images grid) -->
             <div class="grid grid-cols-2 gap-4">
+            <!-- Photo by Andrew Vincentio on Unsplash -->
             <img src="https://images.unsplash.com/photo-1626177112300-33be79092667?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=465" class="rounded-xl shadow-md" alt="Rental Items">
             <img src="https://images.unsplash.com/photo-1677530410699-f692c94cf806?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlZSUyMGltYWdlcyUyMG9nJTIwZWxlY3Ryb25pY3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500" class="rounded-xl shadow-md mt-6" alt="Inventory">
             </div>
